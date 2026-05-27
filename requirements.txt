@@ -1,0 +1,12 @@
+# 智能文档处理项目依赖
+# 推荐使用 Python 3.9
+
+# 核心依赖
+numpy>=1.21.0
+pandas>=1.3.0
+matplotlib>=3.4.0
+Pillow>=8.3.0
+scikit-learn>=1.0.0
+
+# 可选：用于LaTeX报告编译（如果需要）
+# texlive-core
